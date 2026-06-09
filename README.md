@@ -110,12 +110,17 @@ A multi-agent AI system that simulates enterprise boardroom discussions for fina
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAKET-2005&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKET-2005&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SAKET-2005&theme=tokyonight" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAKET-2005&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAKET-2005&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=SAKET-2005&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKET-2005&theme=tokyonight" />
 </p>
 
 ---
