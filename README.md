@@ -173,8 +173,7 @@ Parametric income insurance platform developed during the Guidewire DEVTrails Ha
 
 # 🐍 Contribution Snake
 
-> **Note:** This requires a GitHub Action to generate automatically.
-> If you haven't set up the workflow yet, comment out this section temporarily.
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
