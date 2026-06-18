@@ -1,8 +1,7 @@
-# Hi, I'm Saket Bedia 👋
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;AI+Systems+Builder;Full-Stack+Developer;Building+Technology+That+Creates+Impact" />
+  <img src="assets/banner.png" alt="Saket Bedia Banner" width="100%">
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SAKET-2005&label=Profile%20Views&color=2563eb&style=flat" />
